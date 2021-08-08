@@ -1,0 +1,8 @@
+ZAD: Utwórz użytkownika manualnie na stronie https://prod-kurs.coderslab.pl/.
+słowa kluczowe: Scenario, Given, When, Then, AND, BUT
+rozwiązanie:
+Scenario: Search in Google
+Given: google.com opened in web browser
+When:
+And:
+Then:
